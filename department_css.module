@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * Implements hook().
+ */
+ function department_css_page_attachments(array &$attachments) {
+   $attachments['#attached']['library'][] = 'department_css/department_css';
+ }

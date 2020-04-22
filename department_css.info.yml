@@ -1,0 +1,6 @@
+name: 'Department CSS'
+description: 'Adds a departmental css file to your site'
+package: 'SL'
+type: module
+core: '8.x'
+version: '8.x-1.00'

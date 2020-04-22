@@ -1,0 +1,5 @@
+{
+    "name": "sl/department_css",
+    "description": "Adds a departmental css file to your site",
+    "type": "drupal-module"
+}
